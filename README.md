@@ -9,6 +9,8 @@ HOW DOES IT WORK
 
 PolyBonds are essentially based on Premium Bonds - a saving, reward and sweepstake protocol in one ecosystem.
 
+![PolyBond Project](https://user-images.githubusercontent.com/91946369/149332760-b219079c-a3e4-468b-841a-a4bde17f21ef.jpg)
+
 Protocol Breakdown
 
 1. Deposit Matic
@@ -26,3 +28,4 @@ Developers
 
 It's just me - if you'd like to help, I'd appreciate that. Find me on LinkedIn: https://www.linkedin.com/in/karolyn-webb-19146389/
 Please don't contact me if you are looking for a quick way to get rich, I'm sick to death of scammy crap, I can see it a mile off and I want to return to the underground days, to some extent. Crypto and smart contracts are the next logical step in the development of a truly free market. 
+
