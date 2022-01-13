@@ -9,7 +9,7 @@ HOW DOES IT WORK
 
 PolyBonds are essentially based on Premium Bonds - a saving, reward and sweepstake protocol in one ecosystem.
 
-![PolyBond Project - Frame 1](https://user-images.githubusercontent.com/91946369/149333161-c20635e6-e42e-458e-b6fe-d6b794adc932.jpg)
+![PolyBond Project - Frame 1 (1)](https://user-images.githubusercontent.com/91946369/149333578-455dfe36-10b8-400a-b53f-adc643d38f37.jpg)
 
 Protocol Breakdown
 
